@@ -6,7 +6,7 @@ using namespace std;
 
 
 /*
-*/
+
 // 서버(Server) 프로그램 ①
 void ShowErrorMessage(string message)
 {
@@ -76,5 +76,5 @@ int main()
 	return 0;
 }
 
-
+*/
 
